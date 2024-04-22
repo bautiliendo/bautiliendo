@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>-  🇦🇷  20 years old<br>-  📍  Cordoba, Argentina<br>- 👨‍💻 Software engineering student at Universidad Siglo 21<br>- 🌱 I started studying programming two years ago on UDEMY - CODERHOUSE<br>- 📫 Reach me at juanbautistaliendo1@gmail.com
+<br>-  🇦🇷  20 years old<br>-  📍  Cordoba, Argentina<br>- 👨‍💻 Software engineering student at Universidad Siglo 21<br>- 🌱 I started studying programming two years ago on UDEMY - CODERHOUSE<br>- 📫 Reach me at juanbautistaliendo1@gmail.com<br>- 📫 Looking for a job
 
 
 ## 🌐 Socials:
