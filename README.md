@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Juan Bautista Liendo - Software Engineer Student.
 <br>-  🇦🇷  20 years old<br>-   📍  Córdoba, Argentina<br>- 👨‍💻 Software engineering student at Universidad Siglo 21<br>- 💻 Started studying programming two and a half years ago on UDEMY and CODERHOUSE<br>- 📫 You can reach me at juanbautistaliendo1@gmail.com<br>- ✅ Available for work
 
 
