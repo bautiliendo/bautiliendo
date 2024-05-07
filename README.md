@@ -3,7 +3,7 @@
 - 20 years old
 - 📍 Córdoba, Argentina
 - 👨‍💻 Software engineering student at Universidad Siglo 21
-- 💻 Started studying programming two and a half years ago on UDEMY and CODERHOUSE
+- 💻 Started studying programming three years ago on UDEMY and CODERHOUSE
 - 📫 You can reach me at juanbautistaliendo1@gmail.com
 - ✅ Available for work
 
