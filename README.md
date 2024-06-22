@@ -1,14 +1,15 @@
-# Hi 👋 I'm Juan Bautista Liendo
+# 👋  Juan Bautista Liendo
 
-## About me 💫
+## Sobre mí 💫
+- Córdoba Argentina
+- 20 años
+- Estudio programación hace 3 años, Actualmente me encuentro realizando la carrera Ingeniería en Software en la Universidad Siglo 21. 
 
-I am a second-year software engineering student at Universidad Siglo 21 in Córdoba, Argentina.
-
-## 🌐 Socials
+## 🌐 Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bauti-liendo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bautiliendo)
 
-## 💻 Programming Languages
+## 💻 Lenguajes
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## 🖥️ Frontend
@@ -17,10 +18,10 @@ I am a second-year software engineering student at Universidad Siglo 21 in Córd
 ## 🔙 Backend 
 - ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🛠️ Tools
+## 🛠️ Herramientas
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bautiliendo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bautiliendo&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bautiliendo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
