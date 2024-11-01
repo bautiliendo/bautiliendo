@@ -1,13 +1,12 @@
-# 👋  Juan Bautista Liendo
+# Juan Bautista Liendo
 
-## Sobre mí 💫
+## Sobre mí 
 - Córdoba Argentina
-- 20 años
-- Estudio programación hace 3 años, Actualmente me encuentro realizando la carrera Ingeniería en Software en la Universidad Siglo 21. 
+- 21 años
+- Estudiande de Ingeniería en Software en la Universidad Siglo 21 , cursnado el segundo año. 
 
-## 🌐 Redes
+## Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bauti-liendo/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bautiliendo)
 
 ## 💻 Lenguajes
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
